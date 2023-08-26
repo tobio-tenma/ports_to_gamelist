@@ -1,0 +1,2266 @@
+<?xml version="1.0" ?>
+<gameList>
+  <game>
+    <file>./2048.zip</file>
+    <path>./2048.sh</path>
+    <name>2048</name>
+    <desc>The 2048 puzzle game</desc>
+    <image>./images/2048.screenshot.jpg</image>
+    <developer>Christian_Haitian</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20210910T000000</releasedate>
+    <genre>puzzle</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./abes_adventure.zip</file>
+    <path>./Abes Adventure.sh</path>
+    <name>Abe's Amazing Adventure</name>
+    <desc>A scrolling, platform-jumping, key-collecting, ancient pyramid exploring game, vaguely in the style of similar games for the Commodore+4.  Abe's Adventure files are already included and ready to go.</desc>
+    <image>./images/abes_adventure.screenshot.jpg</image>
+    <developer>Cebion</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20221025T000000</releasedate>
+    <genre>adventure / platformer</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./profadeluxe.zip</file>
+    <path>./Abu Simbel Profanation Deluxe.sh</path>
+    <name>Abu Simbel Profanation Deluxe</name>
+    <desc>An open-source, freeware remake of the Spanish platform game from 1985 replaces the graphics and sounds with new enhanced assets, while maintaining the same unforgiving gameplay of the original.  Just download and play.</desc>
+    <image>./images/profadeluxe.screenshot.jpg</image>
+    <developer>Cebion</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230215T000000</releasedate>
+    <genre>adventure / platformer</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./abuse.zip</file>
+    <path>./Abuse.sh</path>
+    <name>Abuse</name>
+    <desc>A fork of the original Abuse SDL port from http://abuse.zoy.org/.  An intense 2D shooter.  Plays best on dual analog stick devices.  Just download and play.</desc>
+    <image>./images/abuse.screenshot.jpg</image>
+    <developer>romadu</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20211101T000000</releasedate>
+    <genre>action</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./alephone-marathon.zip</file>
+    <path>./Marathon.sh</path>
+    <name>Aleph-One Marathon 1</name>
+    <desc>An open source version of Bungie's Marathon 1 first person shooter. All files have been included.</desc>
+    <image>./images/alephone-marathon.screenshot.jpg</image>
+    <developer>romadu</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20211203T000000</releasedate>
+    <genre>fps</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./alephone-marathon2.zip</file>
+    <path>./Marathon 2.sh</path>
+    <name>Aleph-One Marathon 2</name>
+    <desc>An open source version of Bungie's Marathon 2 first person shooter. All files have been included.</desc>
+    <image>./images/alephone-marathon2.screenshot.jpg</image>
+    <developer>romadu</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20211203T000000</releasedate>
+    <genre>fps</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./alephone-marathoninfinity.zip</file>
+    <path>./Marathon Infinity.sh</path>
+    <name>Aleph-One Marathon Infinity</name>
+    <desc>An open source version of Bungie's Marathon Infinity first person shooter. All files have been included.</desc>
+    <image>./images/alephone-marathoninfinity.screenshot.jpg</image>
+    <developer>romadu</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20211203T000000</releasedate>
+    <genre>fps</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./avp.zip</file>
+    <path>./Alien vs Predator.sh</path>
+    <name>Alien vs Predator</name>
+    <desc>The three most ferocious species in the universe in a bloodthirsty battle for the ultimate prize: survival. Take your pick: be a Colonial Marine, a Predator or an Alien. Fight through suspense-filled environments: from starships and space stations to colonial bases and eerie planetscapes. One wrong move turns you from hunter to prey.  You will need the original files of the PC release copied to the ports/avp folder.</desc>
+    <image>./images/avp.screenshot.jpg</image>
+    <developer>Cebion</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20221106T000000</releasedate>
+    <genre>fps / action</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./am2r.zip</file>
+    <path>./AM2R.sh</path>
+    <name>AM2R</name>
+    <desc>Another Metroid 2 Remake.  An action-adventure game developed by Argentinian programmer Milton Guasti (also known as DoctorM64).  You'll need to provide your own am2r android apk into the ports/am2r/gamedata folder.  Make sure it is named am2r.apk.  The name is case sensitive.</desc>
+    <image>./images/am2r.screenshot.jpg</image>
+    <developer>Johnny on Flame</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20210910T000000</releasedate>
+    <genre>action / adventure / platformer</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./anarch.zip</file>
+    <path>./Anarch.sh</path>
+    <name>Anarch</name>
+    <desc>Anarch is extremely small, completely public domain, no-dependency, no-file, portable suckless anarcho-pacifist from-scratch 90s-style Doom clone that runs everywhere, made for the benefit of all living beings</desc>
+    <image>./images/anarch.screenshot.jpg</image>
+    <developer>Bamboozler</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230323T000000</releasedate>
+    <genre>fps / action</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./augustus.zip</file>
+    <path>./Augustus.sh</path>
+    <name>Augustus</name>
+    <desc>A reimplemntation of the Caeser 3 engine.  You will need the original files of the PC release copied to the ports/augustus/data folder.</desc>
+    <image>./images/augustus.screenshot.jpg</image>
+    <developer>Kloptops and Cebion</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230226T000000</releasedate>
+    <genre>simulation / strategy</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./axiom.verge.zip</file>
+    <path>./Axiom Verge.sh</path>
+    <name>Axiom Verge</name>
+    <desc>A port of Axiom Verge, an awesome metroidvania 2D platformer. You will need to add your own files to the ports/axiom-verge/gamedata folder. YOU HAVE TO USE THE DRM FREE EPIC GAMES VERSION. Also make sure you have the mono-6.12.0.122-aarch64.squashfs file in your Portmaster/libs folder. All intructions are in the ports/axiom-verge/gamedata folder</desc>
+    <image>./images/axiom.verge.screenshot.jpg</image>
+    <developer>Johnny on Flame, Overflask, and Nuxx</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230413T000000</releasedate>
+    <genre>action / adventure / platformer</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./beat2x.zip</file>
+    <path>./Beat2x.sh</path>
+    <name>Beat2x</name>
+    <desc>A DDR-style rythm game where the goal is to time the button presses to line up with the music beat.</desc>
+    <image>./images/None</image>
+    <developer>Bamboozler</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230717T000000</releasedate>
+    <genre/>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./bermuda_syndrome.zip</file>
+    <path>./Bermuda Syndrome.sh</path>
+    <name>Bermuda Syndrome</name>
+    <desc>A reimplemntation of the Berumuda Syndrome engine.  You will need the original files of the PC release or PC demo copied to the ports/bermuda/DATA folder.</desc>
+    <image>./images/bermuda_syndrome.screenshot.jpg</image>
+    <developer>jetup</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20211202T000000</releasedate>
+    <genre>action</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./bstone-aog.zip</file>
+    <path>./Blake Stone - Aliens of Gold.sh</path>
+    <name>Blake Stone Aliens of Gold</name>
+    <desc>The unofficial source port for Blake Stone Aliens of Gold.  Includes the shareware files.  You can also add your own full version Blake Stone Aliens of Gold files to the ports/bstone-aog/gamedata/alien_of_gold folder.</desc>
+    <image>./images/bstone-aog.screenshot.jpg</image>
+    <developer>Cebion and romadu</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20211105T000000</releasedate>
+    <genre>fps / action</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./bstone-ps.zip</file>
+    <path>./Blake Stone - Planet Strike.sh</path>
+    <name>Blake Stone Planet Strike</name>
+    <desc>The unofficial source port for Blake Stone Planet Strike.  You'll need to add your own full version Blake Stone Planet Strike files to the ports/bstone-ps/gamedata/planet_strike folder.</desc>
+    <image>./images/bstone-ps.screenshot.jpg</image>
+    <developer>Cebion and romadu</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20211105T000000</releasedate>
+    <genre>fps</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./blobwars.zip</file>
+    <path>./Blobwars.sh</path>
+    <name>Blob Wars: Metal Blob Solid</name>
+    <desc>Metal Blob Solid is the first game in the Blob Wars series made by Parallel Realities. It is a 2D platform game, where you control Bob in an effort to save his world from an invasion of alien Blobs.  Blobwars files are already included and ready to go.</desc>
+    <image>./images/blobwars.screenshot.jpg</image>
+    <developer>Cebion</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20221029T000000</releasedate>
+    <genre>action / platformer</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./blobby.volley2.zip</file>
+    <path>./Blobby Volley 2.sh</path>
+    <name>Blobby Volley 2</name>
+    <desc>A head-to-head multiplayer ball game.</desc>
+    <image>./images/blobby.volley2.screenshot.jpg</image>
+    <developer>Cebion and romadu</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20211104T000000</releasedate>
+    <genre>sports</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./block.attack.zip</file>
+    <path>./Block Attack.sh</path>
+    <name>Block Attack</name>
+    <desc>A Tetris Attack Clone.</desc>
+    <image>./images/block.attack.screenshot.jpg</image>
+    <developer>Cebion</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20211106T000000</releasedate>
+    <genre>puzzle</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./blockout2.zip</file>
+    <path>./Blockout 2.sh</path>
+    <name>BlockOut II</name>
+    <desc>BlockOut II is a free adaptation of the original BlockOut DOS game. BlockOut II has the same features than the original game with few graphic improvements.  BlockOut II files are already included and ready to go.</desc>
+    <image>./images/blockout2.screenshot.jpg</image>
+    <developer>Cebion</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20221029T000000</releasedate>
+    <genre>puzzle</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./blood.zip</file>
+    <path>./Blood.sh</path>
+    <name>Blood</name>
+    <desc>Blood port based on EDuke32.  You'll need to add your own full version Blood 1.21 files to the ports/Blood folder.</desc>
+    <image>./images/blood.screenshot.jpg</image>
+    <developer>romadu</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20210911T000000</releasedate>
+    <genre>fps / action</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./blues.brothers.zip</file>
+    <path>./Blues Brothers.sh</path>
+    <name>Blues Brothers</name>
+    <desc>A rewrite of the Blues Brothers game engine developed by Titus Interactive.  Includes the demo files.  You can add your own full game Amiga or Dos files to the ports/bluesbrothers/gamedata folder.</desc>
+    <image>./images/blues.brothers.screenshot.jpg</image>
+    <developer>Jetup</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20210910T000000</releasedate>
+    <genre>platformer</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./bbja.zip</file>
+    <path>./Blues Brothers Jukebox Adventure.sh</path>
+    <name>Blues Brothers: Jukebox Adventure</name>
+    <desc>A rewrite of the Blues Brothers game engine developed by Titus Interactive.  Includes the demo files.  You can add your own full game Dos files to the ports/bbda/gamedata folder.</desc>
+    <image>./images/bbja.screenshot.jpg</image>
+    <developer>Jetup</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20211202T000000</releasedate>
+    <genre>platformer</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./cannonball.zip</file>
+    <path>./Cannonball.sh</path>
+    <name>Cannonball</name>
+    <desc>This is the libretro port of the OutRun game engine recreation written by Chris White in 2014.  Add the OutRun Revision B ROMs into /ports/cannonball/gamedata folder. </desc>
+    <image>./images/cannonball.screenshot.jpg</image>
+    <developer>Christian_Haitian</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20211021T000000</releasedate>
+    <genre>racing</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./cave.story.zip</file>
+    <path>./Cave Story.sh</path>
+    <name>Cave Story lr</name>
+    <desc>Cave Story using the Libretro Retroarch Nxengine core.</desc>
+    <image>./images/cave.story.screenshot.jpg</image>
+    <developer>Christian_Haitian</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20210910T000000</releasedate>
+    <genre>action / adventure / platformer</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./cave.story-evo.zip</file>
+    <path>./Cave Story-evo.sh</path>
+    <name>Cave Story (Evo)</name>
+    <desc>Cave Story using the Nxengine-evo engine from https://github.com/nxengine/nxengine-evo</desc>
+    <image>./images/cave.story-evo.screenshot.jpg</image>
+    <developer>Christian_Haitian</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20210910T000000</releasedate>
+    <genre>action / adventure / platformer</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./cceleste.zip</file>
+    <path>./Celeste Classic.sh</path>
+    <name>Celeste Classic</name>
+    <desc>Celeste Classic is a C source port of the original celeste (Celeste classic).</desc>
+    <image>./images/cceleste.screenshot.jpg</image>
+    <developer>Bamboozler</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230511T000000</releasedate>
+    <genre>platformer / puzzle</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./c-dogs.zip</file>
+    <path>./C-Dogs.sh</path>
+    <name>C-Dogs</name>
+    <desc>C-Dogs is a classic overhead run-and-gun game</desc>
+    <image>./images/c-dogs.screenshot.jpg</image>
+    <developer>Christian_Haitian</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20210910T000000</releasedate>
+    <genre>action</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./cliff_hanger.zip</file>
+    <path>./Cliff Hanger.sh</path>
+    <name>Cliff Hanger</name>
+    <desc>Traverse the different levels of this huge cave, in less than 12 seconds, or else, you die! Make sure to collect all of those shiny diamond thingies, they surely are important for you, I assure you!</desc>
+    <image>./images/None</image>
+    <developer>Cebion</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230727T000000</releasedate>
+    <genre>platformer</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./commander.genius.zip</file>
+    <path>./Commander Genius.sh</path>
+    <name>Commander Genius</name>
+    <desc>Commander Genius is an open-source clone of Commander Keen (1-6, Dreams) which allows you to play these episodes and some of the mods made for them.  Developed by Gerstrong.  Includes the shareware version of Commander Keen 1.  You can add load your own keen folders into the ports/cgenius/games folder</desc>
+    <image>./images/commander.genius.screenshot.jpg</image>
+    <developer>Christian_Haitian</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20210910T000000</releasedate>
+    <genre>action / platformer</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./corsixth.zip</file>
+    <path>./CorsixTH.sh</path>
+    <name>CorsixTH</name>
+    <desc>An opensource clone of Theme Hospital.  Load your Theme Hospital files into the ports/corsixth/HOSP folder.  As an example, the demo files of Theme Hospital is already included.</desc>
+    <image>./images/corsixth.screenshot.jpg</image>
+    <developer>Jetup and Romadu</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20211101T000000</releasedate>
+    <genre>simulation / strategy</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./cosmo-engine.zip</file>
+    <path>./Cosmos Cosmic Adventure.sh</path>
+    <name>Cosmo-Engine</name>
+    <desc>A new game engine to play the MS-DOS game Cosmo's Cosmic Adventure on modern systems. Episode 1 is included and you can add Episode 2 and 3 gamefiles to the data folder</desc>
+    <image>./images/cosmo-engine.screenshot.jpg</image>
+    <developer>Bamboozler</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230412T000000</releasedate>
+    <genre>action / platformer</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./davegnukem.zip</file>
+    <path>./Dave Gnukem.sh</path>
+    <name>Dave Gnukem</name>
+    <desc>Dave Gnukem is a cross-platform 2D scrolling platform shooter inspired by Duke Nukem 1.</desc>
+    <image>./images/davegnukem.screenshot.jpg</image>
+    <developer>Bamboozler</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230327T000000</releasedate>
+    <genre>action / platformer</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./deep_sleep.zip</file>
+    <path>./Deep Sleep.sh</path>
+    <name>Deep Sleep</name>
+    <desc>Use your Dream Pillow to traverse through 15 different and challenging levels! Good luck!.</desc>
+    <image>./images/None</image>
+    <developer>Cebion</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230727T000000</releasedate>
+    <genre>platformer</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./defshot.zip</file>
+    <path>./Defshot.sh</path>
+    <name>Defshot</name>
+    <desc>A 2D shooter made for the KoriJam.</desc>
+    <image>./images/None</image>
+    <developer>Cebion</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230727T000000</releasedate>
+    <genre>action / platformer</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./derclou.zip</file>
+    <path>./Der Clou.sh</path>
+    <name>Der Clou!</name>
+    <desc>A burglary simulation game originally created by neo Software Produktions GmbH.  Der Clou!'s files are already included and ready to go.</desc>
+    <image>./images/derclou.screenshot.jpg</image>
+    <developer>Cebion</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230305T000000</releasedate>
+    <genre>simulation / strategy</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./devilutionx.zip</file>
+    <path>./Devilutionx.sh</path>
+    <name>DevilutionX</name>
+    <desc>DevilutionX is a source port of Diablo from https://github.com/diasurgical/devilutionX.  Includes the Diablo shareware version.  You can add your own full version DIABDAT.MPQ file to the ports/devilution folder.  To run the Diablo: Hellfire expansion you will need to also copy hellfire.mpq, hfmonk.mpq, hfmusic.mpq, hfvoice.mpq. See wiki if you experience issues with version upgrades or configuration changes.</desc>
+    <image>./images/devilutionx.screenshot.jpg</image>
+    <developer>Christian_Haitian</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20210910T000000</releasedate>
+    <genre>action / rpg</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./dinothawr.zip</file>
+    <path>./Dinothawr.sh</path>
+    <name>Dinothawr</name>
+    <desc>Dinothawr is a block pushing puzzle game on slippery surfaces.</desc>
+    <image>./images/dinothawr.screenshot.jpg</image>
+    <developer>Christian_Haitian</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20210910T000000</releasedate>
+    <genre>puzzle</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./diverdown.zip</file>
+    <path>./DiverDown.sh</path>
+    <name>Diver Down</name>
+    <desc>Diver Down is a stealth-platformer. Avoid the lights on 20 different stages using your mysterious Diver Down ability, that allows you to dive onto solids! .</desc>
+    <image>./images/diverdown.screenshot.jpg</image>
+    <developer>Cebion</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230403T000000</releasedate>
+    <genre>platformer</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./domeromantik.zip</file>
+    <path>./DomeRomantik.sh</path>
+    <name>Dome Romantik</name>
+    <desc>*Optimized for 4:3 (with touch support) and 16:9(or similar ex. rg552). Could scale weirdly on gameboy like aspect ratio.* Dig your way through to the core of the planet. Mine minerals, bring them back to your dome and install upgrades just in time to defend from hostile lifeforms. Dome Romantik files are already included and ready to go. To Force a particular version rename the desired one in the installation folder as domeromantik-linux.zip(same with gptk file) and delete the others ones, then boot.</desc>
+    <image>./images/None</image>
+    <developer>Tekkenfede</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230624T000000</releasedate>
+    <genre>strategy / action</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./duke.nukem.3d.zip</file>
+    <path>./Duke Nukem 3D.sh</path>
+    <name>Duke Nukem 3D</name>
+    <desc>Duke Nukem 3D using the rednukem build open source port by Alexey Khokholov.  You'll need to add your own full version duke3d.grp and duke.rts Duke Nukem 3D Atomic files to the ports/rednukem/gamedata folder.</desc>
+    <image>./images/duke.nukem.3d.screenshot.jpg</image>
+    <developer>Romadu</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20210910T000000</releasedate>
+    <genre>fps / action</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./dungeonrush.zip</file>
+    <path>./DungeonRush.sh</path>
+    <name>DungeonRush</name>
+    <desc>A opensource game inspired by Snake, written in pure C with SDL</desc>
+    <image>./images/dungeonrush.screenshot.jpg</image>
+    <developer>Bamboozler</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230323T000000</releasedate>
+    <genre>rpg</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./eity.zip</file>
+    <path>./Eity.sh</path>
+    <name>Eity</name>
+    <desc>Eity is a free rhythm game with cool music in a similar vain to DDR. </desc>
+    <image>./images/eity.screenshot.jpg</image>
+    <developer>Cebion</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230430T000000</releasedate>
+    <genre/>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./enigma.zip</file>
+    <path>./Enigma.sh</path>
+    <name>Enigma</name>
+    <desc>Enigma is a puzzle game inspired by Oxyd on the Atari ST and Rock'n'Roll on the Amiga</desc>
+    <image>./images/enigma.screenshot.jpg</image>
+    <developer>Bamboozler</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230325T000000</releasedate>
+    <genre>puzzle</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./exhumed.zip</file>
+    <path>./Exhumed.sh</path>
+    <name>Exhumed</name>
+    <desc>A port of the PC version of Exhumed based on EDuke32.  You'll need to add your own full version STUFF.DAT, DEMO.VCR and BOOK.MOV files to the ports/Exhumed folder.</desc>
+    <image>./images/exhumed.screenshot.jpg</image>
+    <developer>Romadu</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20210913T000000</releasedate>
+    <genre>fps / action</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./exult.zip</file>
+    <path>./Exult-keyring.sh</path>
+    <name>Exult</name>
+    <desc>A port of Ultima 7.  You'll need A copy of the black gate and/or serpent isle added to ports/exult/data/blackgate and/or ports/exult/data/serpentisle.</desc>
+    <image>./images/exult.screenshot.jpg</image>
+    <developer>nl255</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20211209T000000</releasedate>
+    <genre>rpg</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./exult.zip</file>
+    <path>./Exult-nokeyring.sh</path>
+    <name>Exult</name>
+    <desc>A port of Ultima 7.  You'll need A copy of the black gate and/or serpent isle added to ports/exult/data/blackgate and/or ports/exult/data/serpentisle.</desc>
+    <image>./images/exult.screenshot.jpg</image>
+    <developer>nl255</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20211209T000000</releasedate>
+    <genre>rpg</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./f1race.zip</file>
+    <path>./F1 Race.sh</path>
+    <name>F1 Race</name>
+    <desc>A port of the F1 Race game from MTK OS to SDL2 and Web using Emscripten.</desc>
+    <image>./images/f1race.screenshot.jpg</image>
+    <developer>Bamboozler</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230519T000000</releasedate>
+    <genre>arcade / racing</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./fade_to_black.zip</file>
+    <path>./F2bgl.sh</path>
+    <name>F2bgl</name>
+    <desc> A reimplementation of the Fade to Black game.  You will need the original files of the PC release or PC demo copied to the ports/f2bgl folder.</desc>
+    <image>./images/fade_to_black.screenshot.jpg</image>
+    <developer>Romadu</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20211202T000000</releasedate>
+    <genre>action / adventure</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./falling_time.zip</file>
+    <path>./Falling Time.sh</path>
+    <name>Falling Time</name>
+    <desc>Arcade game inspired by Fall Down.  Falling Time files are already included and ready to go.</desc>
+    <image>./images/falling_time.screenshot.jpg</image>
+    <developer>Cebion</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20221024T000000</releasedate>
+    <genre>arcade</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./fallout1.zip</file>
+    <path>./Fallout 1.sh</path>
+    <name>Fallout 1</name>
+    <desc>Fallout is a post nuclear RPG.  You need to copy critter.dat, master.dat and data from the original game to ports/fallout1 folder.</desc>
+    <image>./images/fallout1.screenshot.jpg</image>
+    <developer>Kloptops</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230216T000000</releasedate>
+    <genre>rpg / strategy</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./fallout2.zip</file>
+    <path>./Fallout 2.sh</path>
+    <name>Fallout 2</name>
+    <desc>Fallout 2 is a post nuclear RPG.  You need to copy critter.dat, master.dat, patch000.dat and data from the original game to ports/fallout2 folder.</desc>
+    <image>./images/fallout2.screenshot.jpg</image>
+    <developer>Orson</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230126T000000</releasedate>
+    <genre>rpg / strategy</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./flare.zip</file>
+    <path>./Flare Engine.sh</path>
+    <name>Flare Engine</name>
+    <desc>Flare is an open source, 2D action RPG. Its game play can be likened to the games in the Diablo series.  The game files are already included and ready to go.</desc>
+    <image>./images/flare.screenshot.jpg</image>
+    <developer>Cebion</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230323T000000</releasedate>
+    <genre>action / rpg</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./fheroes2.zip</file>
+    <path>./Fheroes2.sh</path>
+    <name>Free Heroes of Might and Magic II</name>
+    <desc>A a recreation of Heroes of Might and Magic 2 game engine by Ihar Hubchyk.  Just add the data and maps folders from your full version GOG HOMM2 to the ports/fheroes2 folder or just launch Fheroes2 to download the demo files.</desc>
+    <image>./images/fheroes2.screenshot.jpg</image>
+    <developer>romadu</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20211024T000000</releasedate>
+    <genre>strategy / rpg</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./freedom.planet.zip</file>
+    <path>./Freedom Planet.sh</path>
+    <name>Freedom Planet</name>
+    <desc>A combat-based platform adventure.  You must have a copy of Freedom Planet for Linux copied to the ports/freedomplanet/gamedata folder.</desc>
+    <image>./images/freedom.planet.screenshot.jpg</image>
+    <developer>Johnny on Flame</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20210910T000000</releasedate>
+    <genre>action / platformer</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./freedroid.zip</file>
+    <path>./Freedroid.sh</path>
+    <name>FreedroidRPG</name>
+    <desc>FreedroidRPG files are already included and ready to go.</desc>
+    <image>./images/freedroid.screenshot.jpg</image>
+    <developer>Cebion</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230729T000000</releasedate>
+    <genre>rpg</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./freegemas.zip</file>
+    <path>./Freegemas.sh</path>
+    <name>Freegemas</name>
+    <desc>Freegemas is an open source version of the well known Bejeweled.</desc>
+    <image>./images/freegemas.screenshot.jpg</image>
+    <developer>Bamboozler</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230325T000000</releasedate>
+    <genre>puzzle</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./freeserf.zip</file>
+    <path>./FreeSerf.sh</path>
+    <name>FreeSerf</name>
+    <desc>FreeSerf is a faithful clone of the brilliant simulation game The Settlers 1 aka Serf City. In oder to play you need to copy the DOS data file is called SPAE.PA, SPAD.PA, SPAF.PA, or SPAU.PA, depending on the language of the game; or Amiga files gfxheader, gfxfast, gfxchip, gfxpics, sounds, and music. into ports/freeserf folder.</desc>
+    <image>./images/freeserf.screenshot.jpg</image>
+    <developer>Kloptops</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230307T000000</releasedate>
+    <genre>strategy / simulation</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./gemrb.zip</file>
+    <path>./GemRB.sh</path>
+    <name>GemRB</name>
+    <desc>GemRB (Game Engine Made with preRendered Background) is a portable open-source reimplementation of the Infinity Engine that underpinned Baldur's Gate, Icewind Dale and Planescape: Torment. Add your game files to the ports/gemrb/games/GAMEID directory, multiple games can be installed and you will get a choice of which game you want to play at launch.</desc>
+    <image>./images/gemrb.screenshot.jpg</image>
+    <developer>kloptops</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230212T000000</releasedate>
+    <genre>rpg / strategy</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./gigalomania.zip</file>
+    <path>./Gigalomania.sh</path>
+    <name>Gigalomania</name>
+    <desc>Gigalomania is an open source 2D Real Time Strategy god game.  Gigalomania files are already included and ready to go.</desc>
+    <image>./images/gigalomania.screenshot.jpg</image>
+    <developer>Cebion</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20221111T000000</releasedate>
+    <genre>strategy</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./gmu.music.player.zip</file>
+    <path>./Gmu Music Player.sh</path>
+    <name>Gmu Music Player</name>
+    <desc>Gmu is an open source music player for portable gaming consoles and handhelds.  Add your music to the 'ports/gmu-music-player/music' folder for easy access or wherever else you wish as you can browse all storage for files.</desc>
+    <image>./images/None</image>
+    <developer>Slayer366</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230723T000000</releasedate>
+    <genre/>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./half-life.zip</file>
+    <path>./Half-Life.sh</path>
+    <name>Half-Life</name>
+    <desc>Half-Life is Valve's debut title which blends blends action and adventure with award-winning technology to create a frighteningly realistic world where players must think to survive. You need to have your own copy of the game. You need to copy the steam valve directory from your steam installation into ports/Half-Life/valve directory. You can also run Half-Life Blue Shift/Opposing Forces by copying the contents of the bshift/gearbox steam files into their respective ports/Half-Life/ directory.</desc>
+    <image>./images/half-life.screenshot.jpg</image>
+    <developer>kloptops</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230107T000000</releasedate>
+    <genre>fps / action</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./hawkthorne.zip</file>
+    <path>./Hawkthorne.sh</path>
+    <name>Hawkthorne</name>
+    <desc>This 2d platformer is based on Community's Digital Estate Planning episode.</desc>
+    <image>./images/hawkthorne.screenshot.jpg</image>
+    <developer>Cebion</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230511T000000</releasedate>
+    <genre>platformer / rpg</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./heart.of.darkness.zip</file>
+    <path>./Heart of Darkness.sh</path>
+    <name>Heart of Darkness</name>
+    <desc>Heart of Darkness using the hode reimplementation of the engine developed by Amazing Studio.  Just add your own Heart of Darkness game files to the ports/hode/gamedata folder.</desc>
+    <image>./images/heart.of.darkness.screenshot.jpg</image>
+    <developer>Jetup</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20210910T000000</releasedate>
+    <genre>action / platformer</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./hex-a-hop.zip</file>
+    <path>./Hex-A-Hop.sh</path>
+    <name>Hex-A-Hop</name>
+    <desc>Hex-a-hop is a puzzle game in which a girl has to destroy green hexagons by stepping on them.  Hex-a-Hop files are already included and ready to go.</desc>
+    <image>./images/hex-a-hop.screenshot.jpg</image>
+    <developer>Cebion</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20221024T000000</releasedate>
+    <genre>puzzle</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./hexen2.zip</file>
+    <path>./Hexen 2 - Portal of Praevus.sh</path>
+    <name>Hexen 2</name>
+    <desc>Hexen II is a dark fantasy 1st-person shooter developed by Raven Software and published by id software.  Portal of Praevus features new levels, new enemies and a new playable character class, The Demoness.  You must copy your Hexen 2 pak0.pak and pak1.pak files into hexen2/data1 and your pak3.pak into hexen2/portals and make sure they're lowercase.</desc>
+    <image>./images/hexen2.screenshot.jpg</image>
+    <developer>Slayer366</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20221117T000000</releasedate>
+    <genre>fps / action</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./hexen2.zip</file>
+    <path>./Hexen 2.sh</path>
+    <name>Hexen 2</name>
+    <desc>Hexen II is a dark fantasy 1st-person shooter developed by Raven Software and published by id software.  Portal of Praevus features new levels, new enemies and a new playable character class, The Demoness.  You must copy your Hexen 2 pak0.pak and pak1.pak files into hexen2/data1 and your pak3.pak into hexen2/portals and make sure they're lowercase.</desc>
+    <image>./images/hexen2.screenshot.jpg</image>
+    <developer>Slayer366</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20221117T000000</releasedate>
+    <genre>fps / action</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./hijinx.zip</file>
+    <path>./Hijinx.sh</path>
+    <name>Hijinx</name>
+    <desc>A game about platforming, curses, and turtles. Files are already included and ready to go.</desc>
+    <image>./images/hijinx.screenshot.jpg</image>
+    <developer>Cebion</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230421T000000</releasedate>
+    <genre>puzzle</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./hocoslamfy.zip</file>
+    <path>./Hocoslamfy.sh</path>
+    <name>Hocoslamfy</name>
+    <desc>You are a small bee and you must fly to avoid the bamboo shoots.  Hocoslamfy files are already included and ready to go.</desc>
+    <image>./images/hocoslamfy.screenshot.jpg</image>
+    <developer>Cebion</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20221014T000000</releasedate>
+    <genre>platformer</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./hurrican.zip</file>
+    <path>./Hurrican.sh</path>
+    <name>Hurrican</name>
+    <desc>Turrican port by Thrimbor.  Just add the data and lang folders from here to the ports/hurrican folder or just launch Hurrican from the ports menu in Emulationstation and it will download the files and install them automatically.</desc>
+    <image>./images/hurrican.screenshot.jpg</image>
+    <developer>romadu</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20211024T000000</releasedate>
+    <genre>platformer</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./hydra.castle.labyrinth.zip</file>
+    <path>./Hydra Castle Labyrinth.sh</path>
+    <name>Hydra Castle Labyrinth</name>
+    <desc>Hydra Castle Labyrinth is a platform game with some old school action. It's also reminiscent of games of the 16 bit era.</desc>
+    <image>./images/hydra.castle.labyrinth.screenshot.jpg</image>
+    <developer>Christian_Haitian</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20210910T000000</releasedate>
+    <genre>platformer</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./iconoclasts.zip</file>
+    <path>./Iconoclasts.sh</path>
+    <name>Iconoclasts</name>
+    <desc>A platformer that offers fun and wacky gameplay.  Recommended only for 640x480 devices or better.  You must have a copy of Iconoclasts for Linux copied to the ports/iconoclasts/gamedata folder.  Be sure the folder contains subfolders named 32, 64 and data.</desc>
+    <image>./images/iconoclasts.screenshot.jpg</image>
+    <developer>Johnny on Flame</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20211116T000000</releasedate>
+    <genre>action / adventure</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./iichantra_pear.zip</file>
+    <path>./IIChantra P.E.A.R.sh</path>
+    <name>iiChantra</name>
+    <desc>iiChantra is a cross-platform 2D-Action, «retro» in style but modern in gameplay.  iiChantra files are already included and ready to go.</desc>
+    <image>./images/iichantra_pear.screenshot.jpg</image>
+    <developer>Cebion</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230317T000000</releasedate>
+    <genre>platformer</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./invaders.zip</file>
+    <path>./Invaders.sh</path>
+    <name>Invaders</name>
+    <desc>A memory accurate reimplementation of Space Invaders by loadzero.  You'll need to provide your own invaders.e, invaders.f, invaders.g, and invaders.h files from a MAME_078 romset into the invaders/inv1 folder.</desc>
+    <image>./images/invaders.screenshot.jpg</image>
+    <developer>romadu</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20211119T000000</releasedate>
+    <genre>action</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./laserkombat.zip</file>
+    <path>./Laser Kombat.sh</path>
+    <name>Laser Kombat</name>
+    <desc>Laser Kombat is a classic puzzle game, now available for modern systems. Destroy all the tanks to beat the level. Stay out of line of sight, though, or you will get shot. Shoot your lasers at mirrors, blow up bomb or push your enemies into water with movable blocks to win</desc>
+    <image>./images/laserkombat.screenshot.jpg</image>
+    <developer>Bamboozler</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230518T000000</releasedate>
+    <genre>puzzle</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./lbreakouthd.zip</file>
+    <path>./LBreakoutHD.sh</path>
+    <name>LBreakoutHD</name>
+    <desc>LBreakoutHD is a scaleable 16:9 remake of LBreakout2. You try to clear levels full of different types of bricks and extras by using your paddle to aim balls at the bricks.</desc>
+    <image>./images/lbreakouthd.screenshot.jpg</image>
+    <developer>Bamboozler</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230517T000000</releasedate>
+    <genre>other</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./maldita.castilla.zip</file>
+    <path>./Maldita Castilla.sh</path>
+    <name>Maldita Castilla</name>
+    <desc>An arcade action video game developed by Locomalito and released in December 2012.  The gameplay is inspired by the games Shinobi and Ghost and Goblins.</desc>
+    <image>./images/maldita.castilla.screenshot.jpg</image>
+    <developer>krishenriksen (kreal)</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20210910T000000</releasedate>
+    <genre>action / adventure</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./meandmyshadow.zip</file>
+    <path>./Me and My Shadow.sh</path>
+    <name>Me and My Shadow</name>
+    <desc>A puzzle/platform game in which you try to reach the exit by solving puzzles. Spikes, moving blocks, fragile blocks and much more stand between you and the exit. Record your moves and let your shadow mimic them to reach blocks you couldn't reach alone.</desc>
+    <image>./images/meandmyshadow.screenshot.jpg</image>
+    <developer>Bamboozler</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230529T000000</releasedate>
+    <genre>platformer / puzzle</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./meritous.zip</file>
+    <path>./Meritous.sh</path>
+    <name>Meritous</name>
+    <desc>Action-adventure dungeon crawl game.  Meritous files are already included and ready to go.</desc>
+    <image>./images/meritous.screenshot.jpg</image>
+    <developer>Cebion</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20221015T000000</releasedate>
+    <genre>action / adventure</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./mirrormagic.zip</file>
+    <path>./Mirror Magic.sh</path>
+    <name>Mirror Magic</name>
+    <desc>Arcade style game for in the tradition of Deflektor (C 64) and Mindbender (Amiga).</desc>
+    <image>./images/mirrormagic.screenshot.jpg</image>
+    <developer>Bamboozler</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230327T000000</releasedate>
+    <genre>puzzle</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./moonlight.zip</file>
+    <path>./Moonlight.sh</path>
+    <name>Moonlight</name>
+    <desc>A free, open-source NVIDIA Gamestream Client.  For more info on the setup needs at https://github.com/christianhaitian/arkos/wiki/ArkOS-Emulators-and-Ports-information#moonlight-nvidia-gamestreaming-app-available-through-portmaster.</desc>
+    <image>./images/moonlight.screenshot.jpg</image>
+    <developer>Christian_Haitian</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20210910T000000</releasedate>
+    <genre>other</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./mr.boom.zip</file>
+    <path>./Mr. Boom.sh</path>
+    <name>Mr Boom</name>
+    <desc>A Bomberman clone.</desc>
+    <image>./images/mr.boom.screenshot.jpg</image>
+    <developer>Christian_Haitian</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20210910T000000</releasedate>
+    <genre>action / puzzle</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./multris.zip</file>
+    <path>./Multris.sh</path>
+    <name>Multris</name>
+    <desc>A version of Tetris with randomly generated polyominoes of varying sizes.</desc>
+    <image>./images/multris.screenshot.jpg</image>
+    <developer>Bamboozler</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230327T000000</releasedate>
+    <genre>puzzle</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./nam.zip</file>
+    <path>./NAM.sh</path>
+    <name>NAM</name>
+    <desc>NAM using the rednukem build open source port by Alexey Khokholov.  You'll need to add your own full version NAM.GRP and NAM.RTS and .CON files and optionally CD audio tracks as OGG file in the format trackXX.ogg (where XX is the track number) to the ports/rednukem-NAM/gamedata folder.</desc>
+    <image>./images/nam.screenshot.jpg</image>
+    <developer>romadu</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20210910T000000</releasedate>
+    <genre>fps</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./neverball.zip</file>
+    <path>./Neverball.sh</path>
+    <name>Neverball</name>
+    <desc>Tilt the floor to roll a ball through an obstacle course within the given time. If the ball falls or time expires, a ball is lost. Includes Neverputt.</desc>
+    <image>./images/neverball.screenshot.jpg</image>
+    <developer>Bamboozler</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230422T000000</releasedate>
+    <genre>platformer / puzzle</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./neverball.zip</file>
+    <path>./Neverputt.sh</path>
+    <name>Neverball</name>
+    <desc>Tilt the floor to roll a ball through an obstacle course within the given time. If the ball falls or time expires, a ball is lost. Includes Neverputt.</desc>
+    <image>./images/neverball.screenshot.jpg</image>
+    <developer>Bamboozler</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230422T000000</releasedate>
+    <genre>platformer / puzzle</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./nkaruga.zip</file>
+    <path>./nKaruga.sh</path>
+    <name>nKaruga</name>
+    <desc>A cool 2D bullet hell shooter.  Just download and play.</desc>
+    <image>./images/nkaruga.screenshot.jpg</image>
+    <developer>Jetup</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20211101T000000</releasedate>
+    <genre>fps</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./nonny.zip</file>
+    <path>./Nonny.sh</path>
+    <name>Nonny</name>
+    <desc>A simple nonogram game that lets you play and create nonogram puzzles.</desc>
+    <image>./images/nonny.screenshot.jpg</image>
+    <developer>Bamboozler</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230425T000000</releasedate>
+    <genre>puzzle</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./nova_pinball.zip</file>
+    <path>./Nova Pinball.sh</path>
+    <name>Nova Pinball</name>
+    <desc>A pinball game created with the Love game framework.\n\nYour mission: Make the star go nova. There are in-game hints that point out the next target to achieve your goal.</desc>
+    <image>./images/nova_pinball.screenshot.jpg</image>
+    <developer>Cebion</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230523T000000</releasedate>
+    <genre>arcade</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./npuzzle.zip</file>
+    <path>./NPuzzle.sh</path>
+    <name>NPuzzle</name>
+    <desc>NPuzzle is a 15 puzzle style sliding game where you have to rearrange the tiles in order. Includes 6 background images</desc>
+    <image>./images/npuzzle.screenshot.jpg</image>
+    <developer>Bamboozler</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230522T000000</releasedate>
+    <genre>puzzle</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./openblok.zip</file>
+    <path>./OpenBlok.sh</path>
+    <name>OpenBlok</name>
+    <desc>A customizable, cross platform, open-source falling block game, packed with a bunch of features.</desc>
+    <image>./images/openblok.screenshot.jpg</image>
+    <developer>Bamboozler</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230327T000000</releasedate>
+    <genre>puzzle</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./openclaw.zip</file>
+    <path>./Openclaw.sh</path>
+    <name>OpenClaw</name>
+    <desc>A Reimplementation of the 1997 Captain Claw platformer.  Just download and play.</desc>
+    <image>./images/openclaw.screenshot.jpg</image>
+    <developer>Cebion</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20211119T000000</releasedate>
+    <genre>platformer</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./openfodder.zip</file>
+    <path>./OpenFodder.sh</path>
+    <name>OpenFodder</name>
+    <desc>Open Fodder is an open source version of the Cannon Fodder engine. It comes with demo files, you can add the full version files by reading the included README.md</desc>
+    <image>./images/openfodder.screenshot.jpg</image>
+    <developer>Kloptops</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230410T000000</releasedate>
+    <genre>strategy</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./openggs.zip</file>
+    <path>./Open Great Giana Sisters.sh</path>
+    <name>Open Great Giana Sisters</name>
+    <desc>A Free Software/Open Source implementation/remake of The Great Giana Sisters.</desc>
+    <image>./images/openggs.screenshot.jpg</image>
+    <developer>Bamboozler</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230514T000000</releasedate>
+    <genre>platformer</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./openjazz.zip</file>
+    <path>./OpenJazz.sh</path>
+    <name>OpenJazz</name>
+    <desc>A free, open-source version of the classic Jazz Jackrabbit games by Alister Thomson.  Includes the Jazz Jackrabiit shareware files.  You can add your own full game Dos files to the ports/openjazz/gamedata folder.</desc>
+    <image>./images/openjazz.screenshot.jpg</image>
+    <developer>Jetup</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20210910T000000</releasedate>
+    <genre>platformer</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./openmrac.zip</file>
+    <path>./Openmrac.sh</path>
+    <name>OpenMRac</name>
+    <desc>OpenMRac is a split-screen racing game. It is a tweaked source release of MultiRacer.</desc>
+    <image>./images/None</image>
+    <developer>Cebion</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230724T000000</releasedate>
+    <genre>racing</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./openomf.zip</file>
+    <path>./Openomf.sh</path>
+    <name>OpenOMF</name>
+    <desc>An Open Source remake of 'One Must Fall 2097' by Diversions Entertainment.</desc>
+    <image>./images/openomf.screenshot.jpg</image>
+    <developer>Cebion</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20211106T000000</releasedate>
+    <genre>action</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./opentyrian.zip</file>
+    <path>./OpenTyrian.sh</path>
+    <name>OpenTyrian</name>
+    <desc>OpenTyrian is an open-source port of the DOS game Tyrian.  OpenTyrian 2.1 files are already included as they were made freeware sometime ago.</desc>
+    <image>./images/opentyrian.screenshot.jpg</image>
+    <developer>Christian_Haitian</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20210910T000000</releasedate>
+    <genre>fps</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./openrct2.zip</file>
+    <path>./OpenRCT2.sh</path>
+    <name>OpenRCT2</name>
+    <desc>OpenRCT2 is Open source re-implementation of RollerCoaster Tycoon 2. Add your Roller Coaster Tycoon 2 game files to the ports/openrct2/RCT2 directory, and optionally add your Roller Coaster Tycoon 1 files to ports/openrct2/RCT1</desc>
+    <image>./images/openrct2.screenshot.jpg</image>
+    <developer>Kloptops</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230223T000000</releasedate>
+    <genre>simulation</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./opensupaplex.zip</file>
+    <path>./OpenSupaplex.sh</path>
+    <name>OpenSupaplex</name>
+    <desc>OpenSupaplex is a 1:1 reimplementation of the original game in C and SDL.</desc>
+    <image>./images/opensupaplex.screenshot.jpg</image>
+    <developer>Bamboozler</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230521T000000</releasedate>
+    <genre>action / puzzle</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./opensyobon.zip</file>
+    <path>./OpenSyobon.sh</path>
+    <name>OpenSyobon</name>
+    <desc>An SDL-based cross-platform port of Syobon Action</desc>
+    <image>./images/None</image>
+    <developer>Bamboozler</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230706T000000</releasedate>
+    <genre>platformer</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./openxcom.zip</file>
+    <path>./OpenXcomEX.sh</path>
+    <name>OpenXcom Extended</name>
+    <desc>OXCE is an open source engine for running XCOM:Ufo Defense and Terror From the Deep.  You will need to provide your own UFO Defense/TFTD game files.  Read the README-port.txt file for details.</desc>
+    <image>./images/openxcom.screenshot.jpg</image>
+    <developer>nl255</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20220331T000000</releasedate>
+    <genre>strategy</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./oddworld.zip</file>
+    <path>./Oddworld Abes Oddysee.sh</path>
+    <name>Oddworld: Abes Oddysee Exoddus</name>
+    <desc>It is a platformer with puzzle-solving elements. You need to copy all .lvl and .ddv files (and sound.dat for Exoddus) from the original game(s) to either ports/oddysee or ports/exoddus directory.</desc>
+    <image>./images/oddworld.screenshot.jpg</image>
+    <developer>Orson</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230228T000000</releasedate>
+    <genre>action / adventure</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./oddworld.zip</file>
+    <path>./Oddworld Abes Exoddus.sh</path>
+    <name>Oddworld: Abes Oddysee Exoddus</name>
+    <desc>It is a platformer with puzzle-solving elements. You need to copy all .lvl and .ddv files (and sound.dat for Exoddus) from the original game(s) to either ports/oddysee or ports/exoddus directory.</desc>
+    <image>./images/oddworld.screenshot.jpg</image>
+    <developer>Orson</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230228T000000</releasedate>
+    <genre>action / adventure</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./owlboy.zip</file>
+    <path>./Owlboy.sh</path>
+    <name>Owlboy</name>
+    <desc>A story-driven platform adventure game, where you can fly and explore a brand new world in the clouds.  Text is not readable on devices with screens less than 5 inches.  You must have a copy of Owlboy for Linux copied to the ports/owlboy/gamedata folder.</desc>
+    <image>./images/owlboy.screenshot.jpg</image>
+    <developer>Johnny on Flame</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20220318T000000</releasedate>
+    <genre>action / adventure</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./pekka-kana-2.zip</file>
+    <path>./Pekka Kana 2.sh</path>
+    <name>Pekka Kana 2</name>
+    <desc>Pekka Kana 2 (Pekka the Rooster 2) is a jump 'n run game made in the spirit of old classic platformers such as Super Mario, Sonic the Hedgehog, Jazz Jackrabbit, Super Frog and so on. Pekka Kana 2 files are already included and ready to go.</desc>
+    <image>./images/pekka-kana-2.screenshot.jpg</image>
+    <developer>Cebion</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230418T000000</releasedate>
+    <genre>platformer</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./pigeon.zip</file>
+    <path>./PigeonAscent.sh</path>
+    <name>Pigeon Ascent</name>
+    <desc>*Optimized for 4:3 640x480 and 5:3 1920x1152*. Take care of your own pigeon as they fight increasingly stronger foes, and then face the legendary Pigeon God at the end... can you keep death far from your bird? Pigeon Ascent files are already included and ready to go.</desc>
+    <image>./images/pigeon.screenshot.jpg</image>
+    <developer>Tekkenfede</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230609T000000</releasedate>
+    <genre>strategy</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./planetwaves.zip</file>
+    <path>./PlanetWaves.sh</path>
+    <name>Planet Waves</name>
+    <desc>*Works in 640x480. Optimized for 4:3 or higher aspect ratio. Could scale weirdly on gameboy like aspect ratio.* An arcade tower defense about protecting a small planet made for the gotm.io jam #3 by Escada Games. Planet Waves files are already included and ready to go.</desc>
+    <image>./images/planetwaves.screenshot.jpg</image>
+    <developer>Tekkenfede</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230609T000000</releasedate>
+    <genre>strategy</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./plaqueattackremake.zip</file>
+    <path>./PlaqueAttackRemake.sh</path>
+    <name>Plaque Attack Remake</name>
+    <desc>*Optimized for 4:3 and 16:9(or similar ex. rg552). Could scale weirdly on gameboy like aspect ratio.* Atari 2600's Plaque Attack game remake made for Highjam #1 by Escada Games. Plaque attack Remake files are already included and ready to go. To Force a particular version rename the desired one in the installation folder as PlaqueAttackRemake.zip and delete the other one, then boot.</desc>
+    <image>./images/plaqueattackremake.screenshot.jpg</image>
+    <developer>Tekkenfede</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230616T000000</releasedate>
+    <genre>action / other</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./powder.zip</file>
+    <path>./Powder.sh</path>
+    <name>Powder</name>
+    <desc>A roguelike is a dungeon crawler where no two games are the same. The maps are different, the items are different, there are no guaranteed win paths.  Powder files are already included and ready to go.</desc>
+    <image>./images/powder.screenshot.jpg</image>
+    <developer>Cebion</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20221027T000000</releasedate>
+    <genre>rpg</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./prehistorik.2.zip</file>
+    <path>./Prehistorik 2.sh</path>
+    <name>Prehistorik 2</name>
+    <desc>A caveman-era platform game using the Blues Brothers game engine developed by Titus Interactive.  Includes the demo files.  You can add your own full game Dos files to the ports/prehistorik2/gamedata folder.</desc>
+    <image>./images/prehistorik.2.screenshot.jpg</image>
+    <developer>Jetup</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20210910T000000</releasedate>
+    <genre>platformer</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./quake.zip</file>
+    <path>./Quake.sh</path>
+    <name>Quake 1</name>
+    <desc>Quake 1 is one of the first fully 3D First-person shooter games released by id software.  Includes shareware pak file.  You can add your own full game pak files to the ports/quake/quakepaks/id1 folder.</desc>
+    <image>./images/quake.screenshot.jpg</image>
+    <developer>Christian_Haitian</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20210910T000000</releasedate>
+    <genre>fps</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./quake.2.zip</file>
+    <path>./Quake 2.sh</path>
+    <name>Quake 2</name>
+    <desc>Quake 2 is the sequel to Quake 1, one of the first fully 3D First-person shooter games released by id software.  You need to add your own full game pak files to the ports/quake2/baseq2 folder.</desc>
+    <image>./images/quake.2.screenshot.jpg</image>
+    <developer>romadu</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20210914T000000</releasedate>
+    <genre>fps</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./quake3.zip</file>
+    <path>./Quake 3.sh</path>
+    <name>Quake 3</name>
+    <desc>Quake III Arena is a 1999 multiplayer-focused first-person shooter developed by id Software.  You need to add your own full game pak files and product key to the ports/quake3/baseq3 folder.</desc>
+    <image>./images/quake3.screenshot.jpg</image>
+    <developer>brooksytech</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20220118T000000</releasedate>
+    <genre>fps</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./raptor.zip</file>
+    <path>./Raptor.sh</path>
+    <name>Raptor</name>
+    <desc>Reversed-engineered source port from Raptor Call Of The Shadows. Shareware files are included and game is ready to run. See readme for detailed instructions for full version game files and other configuration options. In the name and callsign section, make sure the crosshair is not on input fields, press start + down to enable text entry. Press start once done to complete entry.</desc>
+    <image>./images/None</image>
+    <developer>Bamboozler</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230701T000000</releasedate>
+    <genre>arcade</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./rawgl.zip</file>
+    <path>./RAWGL.sh</path>
+    <name>RAWGL</name>
+    <desc>A re-implementation of the engine used in the game Another World aka Out of this World in the US.  Includes the Out of this World demo files.  You can add your own full game files to the ports/rawgl/gamedata/ folder.  See https://github.com/cyxx/rawgl#supported-versions for more supported files info.</desc>
+    <image>./images/rawgl.screenshot.jpg</image>
+    <developer>Jetup</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20210910T000000</releasedate>
+    <genre>action / adventure</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./redneck.rampage.zip</file>
+    <path>./Redneck Rampage.sh</path>
+    <name>Redneck Rampage 1</name>
+    <desc>Redneck Rampage 1 using the rednukem build open source port by Alexey Khokholov.  You'll need to add your own full version REDNECK.GRP and REDNECK.RTS and .CON files and optionally CD audio tracks as OGG file in the format trackXX.ogg (where XX is the track number) to the ports/rednukem-redneck1/gamedata folder.</desc>
+    <image>./images/redneck.rampage.screenshot.jpg</image>
+    <developer>romadu</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20210910T000000</releasedate>
+    <genre>fps</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./redneck.rampage.rides.again.zip</file>
+    <path>./Redneck Rampage Rides Again.sh</path>
+    <name>Redneck Rampage 2</name>
+    <desc>Redneck Rampage 2 using the rednukem build open source port by Alexey Khokholov.  You'll need to add your own full version REDNECK.GRP and REDNECK.RTS and .CON files and optionally CD audio tracks as OGG file in the format trackXX.ogg (where XX is the track number) to the ports/rednukem-redneck2/gamedata folder.</desc>
+    <image>./images/redneck.rampage.rides.again.screenshot.jpg</image>
+    <developer>romadu</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20210910T000000</releasedate>
+    <genre>fps</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./reminiscence.zip</file>
+    <path>./REminiscence.sh</path>
+    <name>Reminiscence</name>
+    <desc>A reimplementation of the Flashback game using the reminiscence engine by Alex Chermenin.  You will need the original files of the PC version copied to ports/reminiscence/gamedata folder.</desc>
+    <image>./images/reminiscence.screenshot.jpg</image>
+    <developer>jetup and romadu</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20211202T000000</releasedate>
+    <genre>action / adventure</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./retrotime.zip</file>
+    <path>./Retro Time.sh</path>
+    <name>Retro time</name>
+    <desc>RetroTime is a game containing 8 retro based games playable in 3 game modes being Retro Carousel, Time Attack and Lives mode.</desc>
+    <image>./images/retrotime.screenshot.jpg</image>
+    <developer>Bamboozler</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230526T000000</releasedate>
+    <genre>arcade</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./iortcw.zip</file>
+    <path>./Return to Castle Wolfenstein.sh</path>
+    <name>Return to Castle Wolfenstein</name>
+    <desc>Return to Castle Wolfenstein using the iortcw project.  With porting work done by JohnnyonFlame.  Packaged by Romadu. You'll need to add your own pak0.pk3, sp_pak1.pk3, sp_pak2.pk3, and sp_pak3.pk3 to the ports/iortcw/main folder.</desc>
+    <image>./images/iortcw.screenshot.jpg</image>
+    <developer>JohnnyonFlame</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20211001T000000</releasedate>
+    <genre>fps</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./rick.dangerous.zip</file>
+    <path>./Rick Dangerous.sh</path>
+    <name>Rick Dangerous</name>
+    <desc>An open source implementation of the legendary game &quot;Rick Dangerous&quot; using the xrick libretro retroarch core.  All necessary files are already included.</desc>
+    <image>./images/rick.dangerous.screenshot.jpg</image>
+    <developer>Christian_Haitian</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20210910T000000</releasedate>
+    <genre>action / adventure</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./ri_li.zip</file>
+    <path>./Ri-Li.sh</path>
+    <name>Ri-li</name>
+    <desc>A simple and fun arcade-style game in which you control a wooden toy train and collect wooden letters while avoiding obstacles.  Just download and play.</desc>
+    <image>./images/ri_li.screenshot.jpg</image>
+    <developer>Cebion</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230216T000000</releasedate>
+    <genre>puzzle</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./rigelengine.zip</file>
+    <path>./RigelEngine.sh</path>
+    <name>Rigel Engine</name>
+    <desc>A modern re-implementation of the classic DOS game Duke Nukem II.  You'll need to add your own full game files to the ports/RigelEngine/ folder.</desc>
+    <image>./images/rigelengine.screenshot.jpg</image>
+    <developer>romadu</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20211202T000000</releasedate>
+    <genre>action</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./rott.zip</file>
+    <path>./ROTT.sh</path>
+    <name>Rise Of The Triad</name>
+    <desc>An open source port of Rise of the Triad by icculus.  The demo files are already included.</desc>
+    <image>./images/rott.screenshot.jpg</image>
+    <developer>romadu</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20211024T000000</releasedate>
+    <genre>fps</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./rlvm.zip</file>
+    <path>./Rlvm.sh</path>
+    <name>Rlvm</name>
+    <desc>Rlvm is a Free Software reimplementation of the Key RealLive interpreter for Visual Novels. Notable games include CLANNAD, AIR, &amp; KANON. Add your game files to the ports/rlvm/games/GAME_NAME directory, multiple games can be installed and you will get a choice of which game you want to play at launch. HD Releases do not currently work properly.</desc>
+    <image>./images/rlvm.screenshot.jpg</image>
+    <developer>kloptops</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230206T000000</releasedate>
+    <genre>simulation / visual novel</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./rocksndiamonds.zip</file>
+    <path>./Rocks n Diamonds.sh</path>
+    <name>Rocks N Diamonds</name>
+    <desc>A Boulderdash type game by Holger Schemel with many unique features, such as the ability to play remade levels from Boulderdash, Emerald Mine and Supaplex and many more levels.</desc>
+    <image>./images/rocksndiamonds.screenshot.jpg</image>
+    <developer>Christian_Haitian</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20210910T000000</releasedate>
+    <genre>puzzle</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./rota.zip</file>
+    <path>./ROTA.sh</path>
+    <name>ROTA</name>
+    <desc>In ROTA gravity bends beneath your feet! Move blocks and twist gravity to solve puzzles. Collect all 50 gems and explore 8 vibrant worlds</desc>
+    <image>./images/None</image>
+    <developer>Cebion</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230725T000000</releasedate>
+    <genre>platformer</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./rvgl.zip</file>
+    <path>./RVGL.sh</path>
+    <name>RVGL</name>
+    <desc>An open source port of Re-Volt by the RV Team.  Necessary files will be downloaded and installed upon initial launch while connected to the internet.</desc>
+    <image>./images/rvgl.screenshot.jpg</image>
+    <developer>romadu</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20211119T000000</releasedate>
+    <genre>racing</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./shadow.warrior.zip</file>
+    <path>./Shadow Warrior.sh</path>
+    <name>Shadow Warrior</name>
+    <desc>Shadow Warrior open source port by Jonathan Fowler.  You'll need to add your own full version SW.GRP and SW.RTS Shadow Warrior files to the ports/shadow-warrior folder.</desc>
+    <image>./images/shadow.warrior.screenshot.jpg</image>
+    <developer>Romadu</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20210914T000000</releasedate>
+    <genre>fps</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./shipwreck.zip</file>
+    <path>./Shipwreck.sh</path>
+    <name>Shipwreck</name>
+    <desc>Shipwreck is a top down adventure game in which you must travel the land, explore dungeons, and defeat monsters to earn safe passage off the island on which you are stranded.  Note there are several games called Shipwreck, this is the one by Brushfire Games.  You must have a copy of Shipwreck for Linux copied to the ports/shipwreck/gamedata folder.</desc>
+    <image>./images/shipwreck.screenshot.jpg</image>
+    <developer>jtothebell</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20220526T000000</releasedate>
+    <genre>adventure</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./shovel.knight.zip</file>
+    <path>./Shovel Knight.sh</path>
+    <name>Shovel Knight Treasure Trove</name>
+    <desc>Shovel Knight Treasure Trove loader.  You must have a copy of Shovel Knight Treasure Trove for Linux copied to the ports/shovelknight/gamedata folder.  For more info on the setup needs, see https://github.com/christianhaitian/arkos/wiki/ArkOS-Emulators-and-Ports-information</desc>
+    <image>./images/shovel.knight.screenshot.jpg</image>
+    <developer>Johnny on Flame</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20210910T000000</releasedate>
+    <genre>action / adventure</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./simplesokoban.zip</file>
+    <path>./Simple Sokoban.sh</path>
+    <name>Simple Sokoban</name>
+    <desc>Simple Sokoban is a simple Sokoban game that supports animated movements,unlimited level solutions, unlimited undos and more. It does not have any sound</desc>
+    <image>./images/simplesokoban.screenshot.jpg</image>
+    <developer>Bamboozler</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230415T000000</releasedate>
+    <genre>puzzle</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./sdlpop.zip</file>
+    <path>./SDLPoP.sh</path>
+    <name>SDLPoP</name>
+    <desc>An open-source port of Prince of Persia, based on the disassembly of the DOS version, extended with new features by NagyD</desc>
+    <image>./images/sdlpop.screenshot.jpg</image>
+    <developer>Christian_Haitian</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20210910T000000</releasedate>
+    <genre>platformer</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./sdlsopwith.zip</file>
+    <path>./SDL Sopwith.sh</path>
+    <name>SDLSopwith</name>
+    <desc>SDL Sopwith is a port of the game Sopwith, which was originally by BMB CompuScience Canada.</desc>
+    <image>./images/sdlsopwith.screenshot.jpg</image>
+    <developer>Bamboozler</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230601T000000</releasedate>
+    <genre>arcade</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./skijump3.zip</file>
+    <path>./Skijump3.sh</path>
+    <name>SkiJump3</name>
+    <desc>Ski Jump International v3</desc>
+    <image>./images/skijump3.screenshot.jpg</image>
+    <developer>Cebion</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20211202T000000</releasedate>
+    <genre>sports</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./sonic.1.zip</file>
+    <path>./Sonic 1.sh</path>
+    <name>Sonic 1</name>
+    <desc>Sonic the Hedgehog 1 decompilation by Rubberduckycooly.  Just add your own android Data.rsdk file to the ports/sonic1 folder.  See the wiki for more info on this</desc>
+    <image>./images/sonic.1.screenshot.jpg</image>
+    <developer>Christian_Haitian</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20210910T000000</releasedate>
+    <genre>platformer</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./sonic.2.zip</file>
+    <path>./Sonic 2.sh</path>
+    <name>Sonic 2</name>
+    <desc>Sonic the Hedgehog 2 decompilation by Rubberduckycooly.  Just add your own android Data.rsdk file to the ports/sonic2 folder.  See the wiki for more info on this</desc>
+    <image>./images/sonic.2.screenshot.jpg</image>
+    <developer>Christian_Haitian</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20210910T000000</releasedate>
+    <genre>platformer</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./sonic.cd.zip</file>
+    <path>./Sonic CD.sh</path>
+    <name>Sonic CD</name>
+    <desc>Sonic the Hedgehog CD decompilation by Rubberduckycooly.  Just add your own android Data.rsdk file to the ports/soniccd folder.  See the wiki for more info on this</desc>
+    <image>./images/sonic.cd.screenshot.jpg</image>
+    <developer>Christian_Haitian</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20210910T000000</releasedate>
+    <genre>platformer</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./sonic.mania.zip</file>
+    <path>./Sonic Mania.sh</path>
+    <name>Sonic Mania</name>
+    <desc>Sonic the Hedgehog Mania decompilation by Rubberduckycooly.  Just add your own android Data.rsdk file to the ports/sonicmania folder.  See the wiki for more info on this</desc>
+    <image>./images/sonic.mania.screenshot.jpg</image>
+    <developer>TheGammaSqueeze</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20221024T000000</releasedate>
+    <genre>platformer</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./srb2.zip</file>
+    <path>./SRB2.sh</path>
+    <name>Sonic Robo Blast 2</name>
+    <desc>Sonic Robo Blast 2 fangame by Sonic Team Junior.  All necessary files are already included.  !!!Warning!!! This is a 184MB package and will take a while to download and install.</desc>
+    <image>./images/srb2.screenshot.jpg</image>
+    <developer>romadu</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20211202T000000</releasedate>
+    <genre>fps</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./srb2kart.zip</file>
+    <path>./Sonic Robo Blast 2 Kart.sh</path>
+    <name>Sonic RB2 Kart</name>
+    <desc>Sonic Robo Blast 2 Kart fangame by Sonic Team Junior.  All necessary files are already included.  !!!Warning!!! This is a 184MB package and will take a while to download and install.</desc>
+    <image>./images/srb2kart.screenshot.jpg</image>
+    <developer>romadu</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20211121T000000</releasedate>
+    <genre>racing</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./sorr.zip</file>
+    <path>./SorR.sh</path>
+    <name>SorR</name>
+    <desc>Streets of Rage Remake.  Just add your own sorr.dat file, mod folder, and palettes folder into the ports/sorr folder.  See the wiki for more info on this</desc>
+    <image>./images/sorr.screenshot.jpg</image>
+    <developer>Christian_Haitian</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20210910T000000</releasedate>
+    <genre>action</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./space.cadet.pinball.zip</file>
+    <path>./Space Cadet Pinball.sh</path>
+    <name>Space Cadet Pinball</name>
+    <desc>A reversed engineered version Space Cadet Pinball.  Just add your own Space Cadet Pinball PINBALL.DAT files and sound files to the spacecadetpinball folder.</desc>
+    <image>./images/space.cadet.pinball.screenshot.jpg</image>
+    <developer>Jetup and Romadu</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20211031T000000</releasedate>
+    <genre>casino/card</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./spelunky.zip</file>
+    <path>./Spelunky.sh</path>
+    <name>Spelunky</name>
+    <desc>Spelunky Classic HD.  A modified version of Derek Yu's game Spelunky Classic. Based on the source code published in Humble Weekly Bundle: Play and Create with GameMaker (not original 1.1 release).</desc>
+    <image>./images/spelunky.screenshot.jpg</image>
+    <developer>Christian_Haitian</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20210910T000000</releasedate>
+    <genre>platformer</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./starcatcher.zip</file>
+    <path>./Starcatcher.sh</path>
+    <name>Starcatcher</name>
+    <desc>Starcatcher is a platformer inspired by Kirby, Metroid, Gravitron Experiment. Your goal: Collect stars in outer space.</desc>
+    <image>./images/starcatcher.screenshot.jpg</image>
+    <developer>Cebion</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230403T000000</releasedate>
+    <genre>platformer</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./stardewvalley.zip</file>
+    <path>./StardewValley.sh</path>
+    <name>Stardew Valley</name>
+    <desc>An open-ended country-life RPG!  You must have a copy of the compatibility version of Stardew Valley copied to the ports/stardewvalley/gamedata folder.</desc>
+    <image>./images/stardewvalley.screenshot.jpg</image>
+    <developer>Johnny on Flame</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20220703T000000</releasedate>
+    <genre>simulation / rpg</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./super.mario.war.zip</file>
+    <path>./Super Mario War.sh</path>
+    <name>Super Mario War</name>
+    <desc>Super Mario War is a fan-made multiplayer Super Mario Bros. style deathmatch game in which players try to beat one another in a variety of gameplay modes.  Great fun even in single player mode.</desc>
+    <image>./images/super.mario.war.screenshot.jpg</image>
+    <developer>Christian_Haitian</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20210910T000000</releasedate>
+    <genre>platformer</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./supertux.zip</file>
+    <path>./SuperTux.sh</path>
+    <name>SuperTux</name>
+    <desc>SuperTux is a jump'n'run game with strong inspiration from the Super Mario Bros. games for the various Nintendo platforms.  !!!Warning!!! This is a 169MB package and will take a while to download and install.</desc>
+    <image>./images/supertux.screenshot.jpg</image>
+    <developer>Christian_Haitian</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20211103T000000</releasedate>
+    <genre>platformer</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./supertuxkart.zip</file>
+    <path>./SuperTuxKart.sh</path>
+    <name>SuperTuxKart</name>
+    <desc>SuperTuxKart is a 3D open-source arcade racer with a variety characters, tracks, and modes to play. This port uses the low quality mobile assets. See the readme file for instructions on adding the full quality assets.  !!!Warning!!! This is a 123MB package and will take a while to download and install.</desc>
+    <image>./images/supertuxkart.screenshot.jpg</image>
+    <developer>Bamboozler</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230608T000000</releasedate>
+    <genre>racing</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./tamatool.zip</file>
+    <path>./Tamatool.sh</path>
+    <name>Tamatool</name>
+    <desc>Tamatool is a Tamagotchi P1 emulator. Tamatool requires a compatible Tamagotchi P1 ROM called rom.bin in its folder</desc>
+    <image>./images/tamatool.screenshot.jpg</image>
+    <developer>Bamboozler</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230321T000000</releasedate>
+    <genre>simulation</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./thermomorph.zip</file>
+    <path>./Thermomorph.sh</path>
+    <name>Thermomorph</name>
+    <desc>An Alien-inspired survive-the-night horror game, created in Love2D.</desc>
+    <image>./images/thermomorph.screenshot.jpg</image>
+    <developer>Cebion</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230503T000000</releasedate>
+    <genre>simulation / other</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./tileworld.zip</file>
+    <path>./Tile World (Chip's Challenge).sh</path>
+    <name>Tile World</name>
+    <desc>Tile World is a source port clone of Chip's Challenge.  To play the original Chip's Challenge levels, copy 'chips.dat' into 'ports/tileworld/data' and make sure it's lowercase.  Handheld edition based on: https://github.com/senquack/tileworld-for-handhelds</desc>
+    <image>./images/tileworld.screenshot.jpg</image>
+    <developer>Slayer366</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20220603T000000</releasedate>
+    <genre>puzzle</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./tileworld.zip</file>
+    <path>./Tile World (Natural Theme Mod).sh</path>
+    <name>Tile World</name>
+    <desc>Tile World is a source port clone of Chip's Challenge.  To play the original Chip's Challenge levels, copy 'chips.dat' into 'ports/tileworld/data' and make sure it's lowercase.  Handheld edition based on: https://github.com/senquack/tileworld-for-handhelds</desc>
+    <image>./images/tileworld.screenshot.jpg</image>
+    <developer>Slayer366</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20220603T000000</releasedate>
+    <genre>puzzle</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./timespinner.zip</file>
+    <path>./Timespinner.sh</path>
+    <name>Timespinner</name>
+    <desc>Travel back in time to change fate itself, in this beautifully crafted story-driven adventure, inspired by classic 90s action-platformers.  You must have a copy of Timespinner for Linux copied to the ports/timespinner/gamedata folder.</desc>
+    <image>./images/timespinner.screenshot.jpg</image>
+    <developer>Johnny on Flame</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20220320T000000</releasedate>
+    <genre>action / adventure</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./tiny-crate.zip</file>
+    <path>./Tiny Crate.sh</path>
+    <name>Tiny Crate</name>
+    <desc>Tiny Crate is a cute little precision platformer with puzzle elements! Lift and toss crates to traverse over spike pits and reach higher ground! Push yourself and make tight jumps! You got this!</desc>
+    <image>./images/tiny-crate.screenshot.jpg</image>
+    <developer>Cebion</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230404T000000</releasedate>
+    <genre>puzzle</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./titan_tactics.zip</file>
+    <path>./Titan Tactics.sh</path>
+    <name>Titan Tactics</name>
+    <desc>A follow up to Pocket Tactics, Titan Tactics is inspired by the awesome tactic games of the 90s. Fight with your allies and uncover the mysteries of the kingdoms of Tyrmyr and Skathi!</desc>
+    <image>./images/titan_tactics.screenshot.jpg</image>
+    <developer>Cebion</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230413T000000</releasedate>
+    <genre>strategy</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./tomb.raider.1.zip</file>
+    <path>./Tomb Raider 1.sh</path>
+    <name>Tomb Raider 1</name>
+    <desc>An open source port of Tomb Raider 1 using OpenLara engine by xProger.  Just add your steam or gog Tomb Raider 1 files to the ports/tombraider1 folder.</desc>
+    <image>./images/tomb.raider.1.screenshot.jpg</image>
+    <developer>Jetup</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20210910T000000</releasedate>
+    <genre>action / adventure</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./ultimatetapankaikki.zip</file>
+    <path>./Ultimatetapankaikki.sh</path>
+    <name>Ultimate Tapan Kaikki</name>
+    <desc>A simple top-down shooter.  Just download and play.</desc>
+    <image>./images/ultimatetapankaikki.screenshot.jpg</image>
+    <developer>Cebion</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230215T000000</releasedate>
+    <genre>action</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./undertale.zip</file>
+    <path>./Undertale.sh</path>
+    <name>Undertale</name>
+    <desc>Undertale loader.  You must have a copy of Undertale Linux version assets copied to the ports/undertale/assets folder.  For more info on the setup needs, see https://github.com/christianhaitian/arkos/wiki/ArkOS-Emulators-and-Ports-information</desc>
+    <image>./images/undertale.screenshot.jpg</image>
+    <developer>krishenriksen (kreal)</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20210910T000000</releasedate>
+    <genre>rpg</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./upo.zip</file>
+    <path>./Upo.sh</path>
+    <name>Upo</name>
+    <desc>Upo is a procedurally generated music game. Your goal is to avoid collision with flying objects in rhytm to the music.</desc>
+    <image>./images/upo.screenshot.jpg</image>
+    <developer>Cebion</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230504T000000</releasedate>
+    <genre/>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./uqm.zip</file>
+    <path>./UQM.sh</path>
+    <name>Ur-Quan Masters</name>
+    <desc>The Ur-Quan Masters is a 2002 open source fangame modification, based on the action-adventure science fiction game Star Control II.  !!!Warning!!! This is a 369MB package and will take a while to download and install.</desc>
+    <image>./images/uqm.screenshot.jpg</image>
+    <developer>romadu</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20211111T000000</releasedate>
+    <genre>strategy</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./vanillara.zip</file>
+    <path>./VanillaRA.sh</path>
+    <name>VanillaRA</name>
+    <desc>Vanilla Conquer is a fully portable version Command and Conquer Red Alert. The game comes with the demo files, read the README for detailed information on installing the full game.</desc>
+    <image>./images/vanillara.screenshot.jpg</image>
+    <developer>kloptops and Snoopy</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230321T000000</releasedate>
+    <genre>strategy</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./vanillatd.zip</file>
+    <path>./VanillaTD.sh</path>
+    <name>VanillaTD</name>
+    <desc>Vanilla Conquer is a fully portable version Command and Conquer Tiberium Dawn. The game comes with the demo files, read the README for detailed information on installing the full game.</desc>
+    <image>./images/vanillatd.screenshot.jpg</image>
+    <developer>kloptops and Snoopy</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230323T000000</releasedate>
+    <genre>strategy</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./vcmi.zip</file>
+    <path>./VCMI.sh</path>
+    <name>VCMI</name>
+    <desc>VCMI is a fully portable version of Heroes of Might and Magic III. Copy the GoG installer files to ports/vcmi and it will install the game files as required, see the README for more information.</desc>
+    <image>./images/vcmi.screenshot.jpg</image>
+    <developer>kloptops</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230401T000000</releasedate>
+    <genre>strategy / rpg</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./vvvvvv.zip</file>
+    <path>./VVVVVV.sh</path>
+    <name>VVVVVV</name>
+    <desc>VVVVVV is a 2010 puzzle-platform game created by Terry Cavanagh.  The free Make and Play Edition data.zip file is already included.  You can also add your own purchased copy of the data.zip from your VVVVVV into the ports/VVVVVV folder if you prefer that version instead.</desc>
+    <image>./images/vvvvvv.screenshot.jpg</image>
+    <developer>Christian_Haitian</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20210910T000000</releasedate>
+    <genre>platformer</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./wetspot2.zip</file>
+    <path>./Wetspot2.sh</path>
+    <name>Wetspot 2</name>
+    <desc>A port of QuickBasic 4.5 game Wetspot 2 by Angelo Mottola.  Just download and play.</desc>
+    <image>./images/wetspot2.screenshot.jpg</image>
+    <developer>Cebion</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230214T000000</releasedate>
+    <genre>action</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./wizznic.zip</file>
+    <path>./Wizznic.sh</path>
+    <name>Wizznic!</name>
+    <desc>Wizznic! is an open-source, freeware remake of Puzznic, recreating the original arcade levels, the NES ones and including fan-made puzzle packs with new custom levels.</desc>
+    <image>./images/None</image>
+    <developer>Bamboozler</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230713T000000</releasedate>
+    <genre>puzzle</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./wordlesdl.zip</file>
+    <path>./Wordle SDL.sh</path>
+    <name>Wordle SDL</name>
+    <desc>Wordle SDL is a port of a simple clone of Wordle made with SDL.</desc>
+    <image>./images/wordlesdl.screenshot.jpg</image>
+    <developer>Bamboozler</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230426T000000</releasedate>
+    <genre>puzzle</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./world.war.ii.gi.zip</file>
+    <path>./World War II GI.sh</path>
+    <name>World War II GI</name>
+    <desc>World War 2 GI using the rednukem build open source port by Alexey Khokholov.  You'll need to add your own full version WW2GI.GRP and WW2DI.RTS and .CON files and optionally CD audio tracks as OGG file in the format trackXX.ogg (where XX is the track number) to the ports/rednukem-WWII/gamedata folder.</desc>
+    <image>./images/world.war.ii.gi.screenshot.jpg</image>
+    <developer>romadu</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20210910T000000</releasedate>
+    <genre>fps</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./worship_vector.zip</file>
+    <path>./Worship Vector.sh</path>
+    <name>Worship Vector</name>
+    <desc>Worship Vector is a Tower Defense type game. The game is based upon a unique map, which extends automatically.  Just download and play.</desc>
+    <image>./images/worship_vector.screenshot.jpg</image>
+    <developer>Cebion</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230202T000000</releasedate>
+    <genre>puzzle</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./hoverboard.zip</file>
+    <path>./xkcd Hoverboard.sh</path>
+    <name>xkcd Hoverboard</name>
+    <desc>Native port of xkcd 1608 Hoverboard game.</desc>
+    <image>./images/hoverboard.screenshot.jpg</image>
+    <developer>Bamboozler</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230611T000000</releasedate>
+    <genre>platformer</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./zgloom.zip</file>
+    <path>./ZGloom.sh</path>
+    <name>ZGloom</name>
+    <desc>ZGloom is a re-implementation of Amiga FPS Gloom, including support for Gloom 3, Gloom Deluxe and Zombie Massacre.</desc>
+    <image>./images/zgloom.screenshot.jpg</image>
+    <developer>Bamboozler</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230509T000000</releasedate>
+    <genre>fps</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+  <game>
+    <file>./znax.zip</file>
+    <path>./Znax.sh</path>
+    <name>Znax</name>
+    <desc>Znax is a remake of a game by Nick Kouvaris. It is a sort of puzzle / arcade game where you as the player need to select 4 blocks of the same color and form rectangles as big as you can.</desc>
+    <image>./images/znax.screenshot.jpg</image>
+    <developer>Bamboozler</developer>
+    <publisher>PortMaster</publisher>
+    <releasedate>20230515T000000</releasedate>
+    <genre>puzzle</genre>
+    <playcount>0</playcount>
+    <lastplayed> </lastplayed>
+  </game>
+</gameList>
+

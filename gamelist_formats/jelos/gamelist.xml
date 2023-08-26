@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="19017">
+		<path>./Contra III - The Alien Wars (USA).zip</path>
+		<name>Contra III : The Alien Wars</name>
+		<desc>It's time for revenge...
+
+The hideous Red Falcon, thought to have been destroyed long ago by the Earth's greatest commandos, Mad Dog and Scorpian, has risen again, this time pissed off and thirsty for revenge. His armies are marching through the cities, across the lands, and with the intention of exterminating the human race like a bad case of fleas. Two new commandos, Jimbo and Sully, have come forth now to kick Red Falcon's ass and save what remains of the world from his hideous plans!
+
+The Alien Wars begin!!!</desc>
+		<image>./images/Contra III - The Alien Wars (USA)-image.png</image>
+		<video>./videos/Contra III - The Alien Wars (USA)-video.mp4</video>
+		<marquee>./images/Contra III - The Alien Wars (USA)-marquee.png</marquee>
+		<thumbnail>./images/Contra III - The Alien Wars (USA)-thumb.png</thumbnail>
+		<fanart>./images/Contra III - The Alien Wars (USA)-fanart.jpg</fanart>
+		<titleshot>./images/Contra III - The Alien Wars (USA)-titleshot.png</titleshot>
+		<manual>./manuals/Contra III - The Alien Wars (USA)-manual.pdf</manual>
+		<boxback>./images/Contra III - The Alien Wars (USA)-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19920406T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<family>Contra</family>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>ede82658dafdd6febbfbe6a9c9082500</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>EDE82658DAFDD6FEBBFBE6A9C9082500</cheevosHash>
+		<cheevosId>344</cheevosId>
+	</game>
+</gameList>

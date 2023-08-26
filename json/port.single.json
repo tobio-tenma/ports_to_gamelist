@@ -1,0 +1,36 @@
+{
+    "ports": [
+        {
+            "version": 2,
+            "name": "zgloom.zip",
+            "items": [
+                "ZGloom.sh",
+                "zgloom/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "ZGloom",
+                "desc": "ZGloom is a re-implementation of Amiga FPS Gloom, including support for Gloom 3, Gloom Deluxe and Zombie Massacre.",
+                "inst": "",
+                "genres": [
+                    "fps"
+                ],
+                "porter": "Bamboozler",
+                "image": {},
+                "rtr": true,
+                "runtime": null,
+                "reqs": [],
+                "media": {
+                    "screenshot": "zgloom.screenshot.jpg",
+                    "cover": null,
+                    "thumbnail": null,
+                    "video": null
+                }
+            },
+            "download_url": "https://github.com/PortsMaster/PortMaster-Releases/releases/latest/download/ZGloom.zip",
+            "download_size": 17949440,
+            "date_added": "2023-05-09",
+            "date_updated": "2023-06-13"
+        }
+    ]
+}
