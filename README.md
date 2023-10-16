@@ -27,8 +27,4 @@ You can use the [JSON validation schema](https://github.com/kloptops/harbourmast
 
 ### Attribution
 
-Thanks to [Christian Haitian](https://github.com/christianhaitian/) for the creation of PortMaster and his continuing service to retro handlheld community.
-
-Thanks to the [PortMaster](https://github.com/PortsMaster) Crew for their guidance, patience, and wisdom.
-
-Thanks to [kloptops](https://github.com/kloptops) and **Bamboozler** for their extensions to the ports metadata which is why this can now exist.
+Thanks to [Christian Haitian](https://github.com/christianhaitian/) for the creation of PortMaster and his continuing service to retro handlheld community. Thanks to the [PortMaster](https://github.com/PortsMaster) crew for their guidance, patience, and wisdom. Thanks to [kloptops](https://github.com/kloptops) and **Bamboozler** for their enhancements to the ports metadata which made this project possible.
